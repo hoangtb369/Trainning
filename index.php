@@ -1,8 +1,3 @@
-
-
-
-
-	
 <html>
 <head>
 <title></title>
@@ -157,7 +152,6 @@ abbr,acronym{border:0}
  <div class="unknown">
   <h2 class="frame-5"><span>Your System</span> <span>Has been</span> <span>Hacked</span><br/><span>By</span></h2>
   <h2 class="frame-6"><br/><br/><span lang="en-us"> <br>CyRadar</br> </span><br/><span> # </span></h2>
-<li><a href="https://www.facebook.com/" target="_blank"><img src="http://hellox.persiangig.com/DefacePage/facebook.png" alt=""></a></li>
   
  </div>
 
